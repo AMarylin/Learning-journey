@@ -1,8 +1,8 @@
 # My Learning Journey
 
-Hi, I'm **Arinze Amarachukwu** — a curious mind on a journey to master **Data Science**, **Generative AI** **&** **Streamlit**
+Hi, I'm **Arinze Amarachukwu** a curious mind on a journey to master , **Python**, **Data Science**, **Generative AI** **&** **Streamlit**
 
-This repository is a journal of everything I'm learning, building, and exploring — from beginner steps to future expert!
+This repository is a journal of everything I'm learning, building, and exploring from beginner steps to future expert!
 
 ---
 
@@ -19,7 +19,7 @@ This repository is a journal of everything I'm learning, building, and exploring
 
 | Week | Topic | Highlights |
 |------|-------|------------|
-| Week 1 | Python Basics | print, variables, loops, simple projects |
+| Week 1 | Python Basics | print, variables, loops, simple projects(I will use learn python by doing) |
 | Week 2 | pandas | DataFrames, Series, selecting data |
 | Week 3 | NumPy | arrays, slicing, reshaping |
 | Week 4 | Streamlit | first dashboard, inputs, charts |
